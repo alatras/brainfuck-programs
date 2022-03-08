@@ -1,3 +1,3 @@
 # Brainfuck Programs
 
-For experiment.
+For experimentation.
